@@ -4,7 +4,7 @@ This repository contains interactive linear algebra applets designed to enhance 
 
 Features
 Interactive Applets: Visual tools that help students explore and understand linear algebra concepts in an intuitive way.
-Student Engagement: Used by over 500 students to reinforce their learning and improve comprehension.
+Student Engagement: Used by over 2,000 students to reinforce their learning and improve comprehension.
 Designed for EdX: Tailored specifically for the Georgia Tech EdX Linear Algebra course, aligning with the curriculum and learning objectives.
 
 - [Vector Addition](https://www.geogebra.org/m/p6r837u7)
